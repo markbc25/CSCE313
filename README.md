@@ -1,5 +1,5 @@
 # CSCE313
-A collection of all assignments from TAMU CSCE 221 Spring 2022.
+A collection of all assignments from TAMU CSCE 313 Spring 2022.
 
 **This is a running list as I am currently enrolled in the class.**
 
