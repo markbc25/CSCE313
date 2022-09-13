@@ -1,4 +1,4 @@
-# CSCE313
+# Introduction to Computer Systems
 A collection of all assignments from TAMU CSCE 313 Spring 2022.
 
 **This is a running list as I am currently enrolled in the class.**
